@@ -1,7 +1,6 @@
 # Homepage
 My own interests
-
-<h1>This is a heading</h1>
+This is a heading
 <p>This is a paragraph.</p>
 <div>This is a div.</div>
 <center>This text will be centered.
