@@ -1,3 +1,3 @@
-# <p align="center">这是啥捏</p>
-让我写点东西8
-![Mount Everest](https://user-images.githubusercontent.com/66701331/182519753-a38d6542-0cde-4732-88a8-0d1e88437743.jpg)
+# <p align="center">World of Fun Maths</p>
+## Riemann Hypothesis
+![R-Z-FUNC](https://user-images.githubusercontent.com/66701331/182520171-5ea7c3a1-1f43-458f-ad61-98be7ff1485c.png)
