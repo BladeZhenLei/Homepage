@@ -2,4 +2,4 @@
 ## Riemann Hypothesis
 ![R-Z-FUNC](https://user-images.githubusercontent.com/66701331/182520171-5ea7c3a1-1f43-458f-ad61-98be7ff1485c.png)
 
-<img src= "https://user-images.githubusercontent.com/66701331/182520171-5ea7c3a1-1f43-458f-ad61-98be7ff1485c.png" width="324" height="324")>
+<img src= "https://user-images.githubusercontent.com/66701331/182520171-5ea7c3a1-1f43-458f-ad61-98be7ff1485c.png" width="324" height="324">
