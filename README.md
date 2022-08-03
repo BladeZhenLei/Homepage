@@ -6,5 +6,4 @@
 
 
 
-### Artist: Blade.Z Lei
-If you like them, you can donate or purchase the codes at bladelei@yahoo.com.
+### If you like them, you can donate or purchase the codes at bladelei@yahoo.com.
