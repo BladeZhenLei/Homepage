@@ -1,6 +1,6 @@
 Welcome to my homepage where I show all the exciting/fun things (in my opinion) about mathematics!
 <br/> 
-Althopugh I am still interested in some research parts of Graph Theory and Number Thoery, in here there will be nothing about serious maths.
+Although I am still interested in some research parts of Graph Theory and Number Thoery, in here there will be nothing about serious maths.
 
 See
 https://bladezhenlei.github.io/Gallaries/
