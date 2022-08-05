@@ -15,5 +15,4 @@ https://bladezhenlei.github.io/Gallery-Polar/
 <br/>
 for my archieves of mathematical art.
 
-Blade (Zhen) <br/>
-8/3/2022
+Blade (Zhen)
