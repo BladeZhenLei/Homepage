@@ -4,7 +4,7 @@ Although I am still interested in some research parts of Graph Theory and Number
 
 See
 https://bladezhenlei.github.io/Gallaries/
-for my archieves of mathematical arts.
+for my archieves of mathematical art.
 
 Blade (Zhen) <br/>
 :)
