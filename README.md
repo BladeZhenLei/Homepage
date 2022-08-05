@@ -3,7 +3,7 @@
 
 Welcome to my homepage where I show all the fun things (in my opinion) about mathematics!
 
-In my repos there are mixed things but mostly are about machine learning, finance, physics and maths.
+In my repos there are mixed things but mostly about machine learning, finance, physics and maths.
 
 See 
 <br/>
