@@ -7,7 +7,7 @@ Although I am still interested in some research parts of Graph Theory and Number
 
 See 
 <br/>
-https://bladezhenlei.github.io/Gallaries/](https://bladezhenlei.github.io/Gallery-Parametric/
+https://bladezhenlei.github.io/Gallery-Parametric/
 <br/>
 https://bladezhenlei.github.io/Gallery-Polar/
 <br/>
