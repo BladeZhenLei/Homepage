@@ -5,7 +5,7 @@ Welcome to my homepage where I show all the fun things (in my opinion) about mat
 
 In my repos there are mixed things but mostly are about machine learning, finance, physics and maths.
 
-Although I am still interested in some research parts of Graph Theory and Number Thoery, in here there will be nothing about serious maths.
+Although I am still interested in some research parts of Graph Theory and Number Thoery, in here there will be nothing about serious math.
 See 
 <br/>
 https://bladezhenlei.github.io/Gallery-Parametric/
