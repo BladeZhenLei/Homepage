@@ -5,7 +5,7 @@ Welcome to my homepage where I show all the fun things (in my opinion) about mat
 
 Although I am still interested in some research parts of Graph Theory and Number Thoery, in here there will be nothing about serious maths.
 
-See
+See <br/>
 https://bladezhenlei.github.io/Gallaries/
 for my archieves of mathematical art.
 
