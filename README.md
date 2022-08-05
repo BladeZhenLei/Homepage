@@ -7,7 +7,7 @@ In my repos there are mixed things but mostly about machine learning, finance, p
 
 Here I want to share some fun ideas about Number Theory and Graph Theory research (still under development).
 
-Also see (I am updating slowly)
+Also see (updating slowly)
 <br/>
 https://bladezhenlei.github.io/Gallery-Parametric/
 <br/>
