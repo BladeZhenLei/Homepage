@@ -3,7 +3,7 @@
 
 Welcome to my Homepage!
 
-In my repos there are mixed things but mostly about machine learning, finance, physics and maths.
+In my repos there are mixed things about machine learning, finance, physics and maths.
 
 Here I want to share some fun ideas about Number Theory and Graph Theory research (still under development).
 
