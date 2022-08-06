@@ -19,6 +19,6 @@ https://bladezhenlei.github.io/Gallery-Parametric/
 <br/>
 https://bladezhenlei.github.io/Gallery-Polar/
 <br/>
-for my archieves of mathematical art.
+for archieves of mathematical art.
 
 Blade (Zhen)
