@@ -11,7 +11,7 @@ See
 <br/>
 https://bladezhenlei.github.io/Riemann-Hypothesis/
 <br/>
-for posts about Riemann Hypothesis (Biggest Mystery in Mathematics). 
+for blogs about Riemann Hypothesis (Biggest Mystery in Mathematics). 
 
 Also see
 <br/>
