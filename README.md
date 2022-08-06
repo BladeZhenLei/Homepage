@@ -5,12 +5,13 @@ Welcome to my Homepage!
 
 In my repos there are mixed things about machine learning, finance, physics and maths.
 
-Here I want to share some fun ideas about Number Theory and Graph Theory research.
+Here I want to share some fun ideas (no serious maths) about Number Theory and Graph Theory research.
 
 See 
 <br/>
 https://bladezhenlei.github.io/Riemann-Hypothesis/
-for related posts about Riemann Hypothesis (Biggest Mystery in Mathematics). 
+<br/>
+for posts about Riemann Hypothesis (Biggest Mystery in Mathematics). 
 
 Also see
 <br/>
