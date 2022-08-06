@@ -3,9 +3,9 @@
 
 Welcome to my Homepage!
 
-In my repos there are mixed things about machine learning, finance, physics and maths.
+In my repos there are mixed things about Machine Learning, Finance, Physics and Maths.
 
-Here I want to share some fun ideas (no serious maths) about Number Theory and Graph Theory research.
+Here I want to share some fun ideas (no serious maths) about Number Theory and Graph Theory, or just any math.
 
 See 
 <br/>
