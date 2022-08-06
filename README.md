@@ -9,12 +9,10 @@ Here I want to share some fun ideas about Number Theory and Graph Theory researc
 
 See 
 <br/>
-(updating)
-<br/>
 https://bladezhenlei.github.io/Riemann-Hypothesis/
 for related posts about Riemann Hypothesis (Biggest Mystery in Mathematics). 
 
-Also see (updating slowly)
+Also see
 <br/>
 https://bladezhenlei.github.io/Gallery-Parametric/
 <br/>
