@@ -9,7 +9,7 @@ Here I want to share some fun ideas about Number Theory, Graph Theory, or just a
 
 See 
 <br/>
-https://bladezhenlei.github.io/Riemann-Hypothesis/
+https://github.com/BladeZhenLei/Riemann-Hypothesis
 <br/>
 for blogs about Riemann Hypothesis (Biggest Mystery in Mathematics). 
 
