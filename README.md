@@ -2,6 +2,7 @@
 
 
 Welcome to my Homepage!
+(most of it is still being developed)
 
 In my repos there are mixed things about Machine Learning, Finance, Physics and Maths.
 
