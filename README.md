@@ -19,6 +19,8 @@ https://bladezhenlei.github.io/Gallery-Parametric/
 <br/>
 https://bladezhenlei.github.io/Gallery-Polar/
 <br/>
+https://bladezhenlei.github.io/Gallery-Fractal/
+<br/>
 for archieves of mathematical art.
 
 Blade (Zhen)
