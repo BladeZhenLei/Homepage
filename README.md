@@ -6,7 +6,7 @@ Welcome to my Homepage! <br/>
 
 In my repos there are mixed things about Machine Learning, Finance, Physics and Maths.
 
-Here I just want to share some fun ideas about math.
+Here I just want to share some fun stuffs about math.
 
 See 
 <br/>
