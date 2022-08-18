@@ -20,12 +20,11 @@ for blogs about Riemann Hypothesis, the Biggest Mystery in Mathematics.
 
 Also see
 <br/>
-<a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Introduction to Riemann Hypothesis </a>
-https://bladezhenlei.github.io/Gallery-Parametric/
+<a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric Plots </a>
 <br/>
-https://bladezhenlei.github.io/Gallery-Polar/
+<a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar Plots </a>
 <br/>
-https://bladezhenlei.github.io/Gallery-Fractal/
+<a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal Plots </a>
 <br/>
 for archieves of mathematical art.
 
