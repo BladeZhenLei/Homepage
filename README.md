@@ -2,7 +2,7 @@
 
 
 <p align="center">
-$Welcome to Blade(Zhen)'s Homepage!$
+$Welcome$ $to$ $Blade(Zhen)'s$ $Homepage!$
 </p> 
 I love Number Theory and Graph Theory, or just general combinatorics! Here I want to share some fun stuffs about math. 
 <p/>
