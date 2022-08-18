@@ -2,8 +2,7 @@
 
 
 Welcome to my Homepage! <br/>
-I love Number Theory and Graph Theory, or just general combinatorics! <br/>
-And here I just want to share some fun stuffs about math.
+I love Number Theory and Graph Theory, or just general combinatorics! Here I just want to share some fun stuffs about math. <p/>
 
 (...still being developed...)
 
