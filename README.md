@@ -4,32 +4,33 @@ $Welcome$ $to$ $Blade(Zhen)'s$ $Homepage!$
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="100" height="100" ></p>
 
 I love Number Theory, Graph Theory, and combinatorics.
-<br/>
+<P/>
 Here I want to share some fun stuffs about math. 
 <p/>
 (...still being developed...)
 <p/>
 
 See 
-<p/>
+<br/>
 <a href="https://github.com/BladeZhenLei/Riemann-Hypothesis/blob/main/README.md"> Introduction to Riemann Hypothesis </a>
-<p/>
+<br/>
 for The Biggest Mystery in Mathematics. 
 
 See
-<p/>
+<br/>
 ...
-<p/>
+<br/>
 for some conjectures I made.
+<br/>
 
 Also see
-<p/>
+<br/>
 <a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
-<p/>
+<br/>
 <a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar </a>
-<p/>
+<br/>
 <a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal </a>
-<p/>
+<br/>
 for archieves of mathematical art.
 
 <p align="center">
