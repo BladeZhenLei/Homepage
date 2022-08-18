@@ -16,7 +16,7 @@ See
 <br/>
 https://github.com/BladeZhenLei/Riemann-Hypothesis/blob/main/README.md
 <br/>
-for blogs about Riemann Hypothesis (Biggest Mystery in Mathematics). 
+for blogs about Riemann Hypothesis, the Biggest Mystery in Mathematics. 
 
 Also see
 <br/>
