@@ -15,10 +15,12 @@ Here I want to share some fun stuffs about math.
 See 
 <br/>
 <a href="https://github.com/BladeZhenLei/Riemann-Hypothesis/blob/main/README.md"> Introduction to Riemann Hypothesis </a>
+<br/>
 for blogs about Riemann Hypothesis, the Biggest Mystery in Mathematics. 
 
 Also see
 <br/>
+<a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Introduction to Riemann Hypothesis </a>
 https://bladezhenlei.github.io/Gallery-Parametric/
 <br/>
 https://bladezhenlei.github.io/Gallery-Polar/
