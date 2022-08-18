@@ -14,9 +14,7 @@ Here I want to share some fun stuffs about math.
 
 See 
 <br/>
-<a href="https://github.com/BladeZhenLei/Riemann-Hypothesis/blob/main/README.md"> Something </a>
-
-<br/>
+<a href="https://github.com/BladeZhenLei/Riemann-Hypothesis/blob/main/README.md"> Introduction to Riemann Hypothesis </a>
 for blogs about Riemann Hypothesis, the Biggest Mystery in Mathematics. 
 
 Also see
