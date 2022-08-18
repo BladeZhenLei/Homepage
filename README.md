@@ -2,11 +2,10 @@
 
 
 Welcome to my Homepage! <br/>
-(most of it is still being developed)
+I love Number Theory and Graph Theory, or just general combinatorics! <br/>
+And here I just want to share some fun stuffs about math.
 
-In my repos there are mixed things about Machine Learning, Finance, Physics and Maths.
-
-Here I just want to share some fun stuffs about math.
+(...still being developed...)
 
 See 
 <br/>
