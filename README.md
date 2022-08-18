@@ -26,4 +26,6 @@ https://bladezhenlei.github.io/Gallery-Fractal/
 <br/>
 for archieves of mathematical art.
 
-Blade (Zhen)
+<p align="center">
+$Thank$ $you!$
+</p>
