@@ -16,29 +16,29 @@ I love Number Theory, Graph Theory, and combinatorics.
 <br/>
 Here I want to share some fun stuffs about math. 
 <p/>
-
 (...still being developed...)
+<p/>
 
 See 
-<br/>
+<p/>
 <a href="https://github.com/BladeZhenLei/Riemann-Hypothesis/blob/main/README.md"> Introduction to Riemann Hypothesis </a>
-<br/>
+<p/>
 for The Biggest Mystery in Mathematics. 
 
 See
-<br/>
+<p/>
 ...
-<br/>
+<p/>
 for some conjectures I made.
 
 Also see
-<br/>
+<p/>
 <a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
-<br/>
+<p/>
 <a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar </a>
-<br/>
+<p/>
 <a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal </a>
-<br/>
+<p/>
 for archieves of mathematical art.
 
 <p align="center">
