@@ -1,12 +1,3 @@
-<html lang="en">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>Don't delete!</title>
-<script type="text/javascript" charset="utf-8" src="
-https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
-https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
-</head>
-
 <p align="center">
 $Welcome$ $to$ $Blade(Zhen)'s$ $Homepage!$
 </p> 
@@ -44,3 +35,13 @@ for archieves of mathematical art.
 <p align="center">
 $Thank$ $you!$
 </p>
+
+
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>Don't delete!</title>
+<script type="text/javascript" charset="utf-8" src="
+https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+</head>
