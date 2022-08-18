@@ -1,6 +1,3 @@
-<script type="text/javascript"
-src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 <p align="center">
 $Welcome$ $to$ $Blade(Zhen)'s$ $Homepage!$
 </p> 
