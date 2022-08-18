@@ -13,7 +13,7 @@ I love combinatorics, especially Number Theory and Graph Theory!
 
 See 
 <br/>
-<a href="https://github.com/BladeZhenLei/Riemann-Hypothesis/blob/main/README.md"> Introduction to Riemann Hypothesis </a>
+<a href="https://bladezhenlei.github.io/Riemann-Hypothesis-Intro/"> Introduction to Riemann Hypothesis </a>
 <br/>
 for The Biggest Mystery in Mathematics. 
 
