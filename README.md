@@ -1,9 +1,9 @@
 <p align="center">
-$Welcome$ $to$ $Blade(Zhen)'s$ $Homepage!$
+$Welcome$ $to$ $Blade(Zhen)'s$ $Blog!$
 </p> 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="100" height="100" ></p>
 
-Here I want to share some fun stuffs about math. 
+Here I post some fun stuffs about math. 
 <p/>
 I am interested in combinatorics, especially number theory and graph theory!
 <P/>
