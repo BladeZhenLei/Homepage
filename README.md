@@ -3,10 +3,11 @@ $Welcome$ $to$ $Blade(Zhen)'s$ $Homepage!$
 </p> 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="100" height="100" ></p>
 
-I love Number Theory, Graph Theory, and combinatorics.
-<P/>
 Here I want to share some fun stuffs about math. 
 <p/>
+I love combinatorics, especially Number Theory and Graph Theory!
+<P/>
+
 (...still being developed...)
 <p/>
 
