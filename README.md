@@ -21,7 +21,7 @@ See
 <br/>
 ...
 <br/>
-for some conjectures I made.
+for some conjectures I have made.
 <br/>
 
 Also see
