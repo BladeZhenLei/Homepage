@@ -5,7 +5,7 @@ $Welcome$ $to$ $Blade(Zhen)'s$ $Homepage!$
 
 Here I want to share some fun stuffs about math. 
 <p/>
-I love combinatorics, especially Number Theory and Graph Theory!
+I am interested in combinatorics, especially Number Theory and Graph Theory!
 <P/>
 
 (...still being developed...)
