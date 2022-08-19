@@ -18,9 +18,9 @@ for the Biggest Mystery in Mathematics.
 
 See
 <br/>
-https://bladezhenlei.github.io/Conjectures/
+<a href="https://bladezhenlei.github.io/Conjectures/"> Interesting Problems </a>
 <br/>
-for some problems in number theory.
+for some open problems in number theory.
 <br/>
 
 Also see
