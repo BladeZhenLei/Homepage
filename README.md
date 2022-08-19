@@ -20,7 +20,7 @@ See
 <br/>
 ...
 <br/>
-for some fun math problems in number theory.
+for some problems in number theory.
 <br/>
 
 Also see
