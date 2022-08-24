@@ -20,7 +20,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Conjectures/"> Interesting Problems </a>
 <br/>
-for problems related to prime numbers.
+for open problems related to prime numbers.
 <br/>
 
 Also see
