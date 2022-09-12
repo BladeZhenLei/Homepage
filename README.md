@@ -12,7 +12,7 @@ I am mainly interested in combinatorics (number theory and graph theory).
 
 See 
 <br/>
-<a href="https://bladezhenlei.github.io/Riemann-Hypothesis-Intro/"> Riemann Hypothesis </a>
+<a href="https://bladezhenlei.github.io/Riemann-Hypothesis/"> Riemann Hypothesis </a>
 <br/>
 for the Biggest Mystery in Mathematics. 
 
