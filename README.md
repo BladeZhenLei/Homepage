@@ -31,7 +31,7 @@ Also see
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal </a>
 <br/>
-for archieves of mathematical art.
+for my archieves of mathematical art.
 
 <p align="center">
 $Thank$ $you!$
