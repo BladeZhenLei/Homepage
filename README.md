@@ -18,9 +18,9 @@ for the Biggest Mystery in Mathematics.
 
 See
 <br/>
-<a href="https://bladezhenlei.github.io/Conjectures/"> Interesting Problems </a>
+<a href="https://bladezhenlei.github.io/Conjectures/"> Open Problems </a>
 <br/>
-for open problems related to prime numbers.
+for interesting open problems related to prime numbers.
 <br/>
 
 Also see
