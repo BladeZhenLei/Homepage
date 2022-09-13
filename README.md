@@ -14,9 +14,15 @@ I am mainly interested in combinatorics (number theory and graph theory).
 
 See 
 <br/>
-<a href="https://bladezhenlei.github.io/Riemann-Hypothesis/"> Riemann Hypothesis </a>
+<a href="https://bladezhenlei.github.io/Riemann-Hypothesis/"> Riemann Hypothesis Introduction</a>
+<br/>
+<br/>
+<a href="https://bladezhenlei.github.io/Graph-Riemann-Hypothesis/"> Graph Riemann Hypothesis </a>
 <br/>
 for the Biggest Mystery in Mathematics. 
+
+
+
 
 See
 <br/>
