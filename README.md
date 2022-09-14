@@ -10,9 +10,7 @@ $Welcome$ $to$ $Blade(Zhen)'s$ $Blog!$
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="100" height="100" ></p>
 <p align="center">
-Here I post some fun stuffs about math! 
-<br/>
-I am mainly interested in combinatorics.
+Here I post some fun stuffs about math --- mainly combinatorics.
 <p/>
 
 <p align="center">
@@ -26,14 +24,15 @@ for the Biggest Mystery in Mathematics.
 </p>
 
 
-
+<p align="center">
 See
 <br/>
 <a href="https://bladezhenlei.github.io/Open-Problems/"> Open Problems </a>
 <br/>
 for some interesting problems related to prime numbers.
-<br/>
+</p>
 
+<p align="center">
 Also see
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
@@ -43,11 +42,11 @@ Also see
 <a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal </a>
 <br/>
 for my archieves of mathematical art.
+</p>
 
 <p align="center">
 $Thank$ $you!$
 </p>
-
 
 <html lang="en">
 <head>
