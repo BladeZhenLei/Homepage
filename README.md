@@ -1,6 +1,6 @@
 <p align="center">
 $Welcome$ $to$ $Blade(Zhen)'s$ $Blog!$
-<p/>
+<br/>
 (...still being developed...)
 </p> 
 
