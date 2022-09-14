@@ -32,11 +32,11 @@ for some ideas concerning computer security.
 <p align="center">
 See
 <br/>
-<a href="https://bladezhenlei.github.io/Prime-Partition/"> Open Problems </a>
+<a href="https://bladezhenlei.github.io/Prime-Partition/"> Prime Partition </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Prime-Gap/"> Open Problems </a>
+<a href="https://bladezhenlei.github.io/Prime-Gap/"> Prime Gap </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Integer-Partition/"> Open Problems </a>
+<a href="https://bladezhenlei.github.io/Integer-Partition/"> Integer Partition </a>
 <br/>
 for some interesting open problems in number theory.
 </p>
