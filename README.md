@@ -34,7 +34,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Open-Problems/"> Open Problems </a>
 <br/>
-for some interesting problems related to prime numbers.
+for some interesting open problems in number theory.
 </p>
 
 <p align="center">
