@@ -15,7 +15,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Graph-Riemann-Hypothesis/"> Graph Riemann Hypothesis </a>
 <br/>
-for the most famous unsovled problem in mathematics. 
+for the most famous unsovled problem in mathematics and its extensions. 
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Post-Quantum-Cryptography/"> Post-Quantum Cryptography </a>
 <br/>
-for some ideas concerning computer security. 
+for some stuffs concerning computer security. 
 </p>
 
 
