@@ -20,7 +20,9 @@ for the biggest mystery in mathematics and its extensions.
 </p>
 
 <p align="center">
-See 
+See
+<a href="https://bladezhenlei.github.io/Classical-Cryptography/"> Classical Cryptography </a>
+<br/>
 <br/>
 <a href="https://bladezhenlei.github.io/Post-Quantum-Cryptography/"> Post-Quantum Cryptography </a>
 <br/>
