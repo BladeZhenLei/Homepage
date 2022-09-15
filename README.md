@@ -1,6 +1,7 @@
 <p align="center">
 $Welcome$ $to$ $Blade(Zhen)'s$ $Blog!$
-</p> 
+</br> 
+(...currently under development...)
 
 <p align="center">
 "God may not play dice with the universe, but something strange is going on with the prime numbers." - Paul Erdos
