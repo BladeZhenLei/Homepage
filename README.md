@@ -16,7 +16,7 @@ for my thoughts in math research.
 </p>
 
 <p align="center">
-Also see
+See
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
 <br/>
@@ -49,7 +49,7 @@ for some stuffs concerning computer security.
 
 
 <p align="center">
-See
+Also see
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-Partition/"> Prime Partition </a>
 <br/>
