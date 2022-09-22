@@ -1,6 +1,6 @@
 ***
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="100" height="100" ></p>
-***
+
 "God may not play dice with the universe, but something strange is going on with the prime numbers." - Paul Erdos
 
 <p align="center">
