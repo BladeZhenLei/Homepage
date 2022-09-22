@@ -1,7 +1,5 @@
 <p align="center">
 $Welcome$ $to$ $Blade(Zhen)'s$ $Blog!$
-<br/> 
-(...under development...)
 
 <p align="center">
 "God may not play dice with the universe, but something strange is going on with the prime numbers." - Paul Erdos
@@ -41,6 +39,17 @@ See
 <br/>
 for some interesting open problems in number theory.
 </p>
+
+<p align="center">
+See
+<br/>
+<a href="https://bladezhenlei.github.io/Original-Works/"> Original Works </a>
+<br/>
+for my thoughts in math research.
+</p>
+
+
+
 
 <p align="center">
 Also see
