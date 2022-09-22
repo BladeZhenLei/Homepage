@@ -60,7 +60,7 @@ for some stuffs concerning computer security.
 <p align="center">
 $Thank$ $you!$
 
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/191641607-4b660dbc-6c8a-4202-b6b6-b39946e1ffe0.png" width="1000" height="300" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/191641607-4b660dbc-6c8a-4202-b6b6-b39946e1ffe0.png" width="500" height="150" ></p>
 
 
 
