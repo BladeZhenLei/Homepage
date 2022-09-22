@@ -57,9 +57,10 @@ See
 for some stuffs concerning computer security. 
 </p>
 
-***
 <p align="center">
 $Thank$ $you!$
+
+***
 </p>
 <html lang="en">
 <head>
