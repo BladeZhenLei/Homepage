@@ -36,7 +36,7 @@ for the biggest mystery in mathematics and its extensions.
 </p>
 
 <p align="center">
-Also see
+See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-Partition/"> Prime Partition </a>
 <br/>
@@ -48,7 +48,7 @@ for some interesting open problems in number theory.
 </p>
 
 <p align="center">
-See
+Also see
 <BR/>
 <a href="https://bladezhenlei.github.io/Classical-Cryptography/"> Classical Cryptography </a>
 <br/>
