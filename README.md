@@ -8,6 +8,26 @@ $Welcome$ $to$ $Blade(Zhen)'s$ $Blog!$
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="100" height="100" ></p>
 
 <p align="center">
+See
+<br/>
+<a href="https://bladezhenlei.github.io/Original-Works/"> Original Works </a>
+<br/>
+for my thoughts in math research.
+</p>
+
+<p align="center">
+Also see
+<br/>
+<a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
+<br/>
+<a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar </a>
+<br/>
+<a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal </a>
+<br/>
+for my archieves of mathematical art.
+</p>
+
+<p align="center">
 See 
 <br/>
 <a href="https://bladezhenlei.github.io/Riemann-Hypothesis/"> Riemann Hypothesis</a>
@@ -47,9 +67,6 @@ See
 <br/>
 for my thoughts in math research.
 </p>
-
-
-
 
 <p align="center">
 Also see
