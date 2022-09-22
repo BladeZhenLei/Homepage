@@ -60,30 +60,10 @@ See
 for some interesting open problems in number theory.
 </p>
 
-<p align="center">
-See
-<br/>
-<a href="https://bladezhenlei.github.io/Original-Works/"> Original Works </a>
-<br/>
-for my thoughts in math research.
-</p>
-
-<p align="center">
-Also see
-<br/>
-<a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
-<br/>
-<a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar </a>
-<br/>
-<a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal </a>
-<br/>
-for my archieves of mathematical art.
-</p>
 
 <p align="center">
 $Thank$ $you!$
 </p>
-
 <html lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
