@@ -38,17 +38,6 @@ for the biggest mystery in mathematics and its extensions.
 </p>
 
 <p align="center">
-See
-<BR/>
-<a href="https://bladezhenlei.github.io/Classical-Cryptography/"> Classical Cryptography </a>
-<br/>
-<a href="https://bladezhenlei.github.io/Post-Quantum-Cryptography/"> Post-Quantum Cryptography </a>
-<br/>
-for some stuffs concerning computer security. 
-</p>
-
-
-<p align="center">
 Also see
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-Partition/"> Prime Partition </a>
@@ -60,6 +49,15 @@ Also see
 for some interesting open problems in number theory.
 </p>
 
+<p align="center">
+See
+<BR/>
+<a href="https://bladezhenlei.github.io/Classical-Cryptography/"> Classical Cryptography </a>
+<br/>
+<a href="https://bladezhenlei.github.io/Post-Quantum-Cryptography/"> Post-Quantum Cryptography </a>
+<br/>
+for some stuffs concerning computer security. 
+</p>
 
 <p align="center">
 $Thank$ $you!$
