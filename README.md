@@ -8,7 +8,9 @@
 <p align="center">
 See
 <br/>
-<a href="https://bladezhenlei.github.io/Original-Works/"> Original Works </a>
+<a href="https://bladezhenlei.github.io/Original-Works/"> Original Questions </a>
+<br/>
+<a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
 for my thoughts in math research.
 </p>
