@@ -1,8 +1,6 @@
 ***
-<p align="center"> My main research interests are in computational number theory, particularly, efficient expression of large primes. </p>
-
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="100" height="100" ></p>
-
+<p align="center"> My main research interests are in computational number theory, particularly, efficient expression of large primes. </p>
 <p align="center">
 " $God$ $may$ $not$ $play$ $dice$ $with$ $the$ $universe,$ $but$ $something$ $strange$ $is$ $going$ $on$ $with$ $the$ $prime$ $numbers.$ " - $Paul$ $Erdos$
 <p/>
