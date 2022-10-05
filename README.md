@@ -3,7 +3,7 @@
 
 <p align="center"> " $God$ $may$ $not$ $play$ $dice$ $with$ $the$ $universe,$ $but$ $something$ $strange$ $is$ $going$ $on$ $with$ $the$ $prime$ $numbers.$ " - $Paul$ $Erdos$ <p/>
 <p align="center"> My main research interests are in computational number theory, in particular, efficient expression of large primes. </p>
-<p align="center"> Often times, calculating a large integer itslef would take prohibitably long time, though factorization and primility test does not always require us to do so. </p>
+<p align="center"> Often times, calculating a large integer itslef would take prohibitively long time, though factorization and primility test does not always require us to do so. </p>
 
 <p align="center">
 See
