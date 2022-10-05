@@ -12,7 +12,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
-for my thoughts in number thoery research.
+for my ideas in number thoery research.
 </p>
 
 <p align="center">
