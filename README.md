@@ -1,5 +1,6 @@
 ***
 <p align="center"> " $God$ $may$ $not$ $play$ $dice$ $with$ $the$ $universe,$ $but$ $something$ $strange$ $is$ $going$ $on$ $with$ $the$ $prime$ $numbers.$ " - $Paul$ $Erdos$ <p/>
+
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="120" height="120" ></p>
 
 <p align="center"> My main research interests are in computational number theory, and in particular, efficient ways of finding large primes. </p>
@@ -60,6 +61,7 @@ for my archieves of mathematical art.
 <p align="center">
 $Thank$ $you!$
 
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/182988392-6dc55f54-b27b-414b-a433-48f172b1209d.png" width="120" height="120" ></p>
 <p align="https://user-images.githubusercontent.com/66701331/197356809-6ce9a235-a861-4b85-8a67-e92f00a8918c.png" width="400" height="100" ></p>
 
 
