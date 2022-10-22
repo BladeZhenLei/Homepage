@@ -63,7 +63,7 @@ for some stuffs concerning computer security.
 $Thank$ $you!$
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/191641607-4b660dbc-6c8a-4202-b6b6-b39946e1ffe0.png" width="400" height="100" ></p>
-![image](https://user-images.githubusercontent.com/66701331/197352251-e628b06f-8a10-4b42-9a7d-ca48fd6e2475.png)
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/197352251-e628b06f-8a10-4b42-9a7d-ca48fd6e2475.png" width="200" height="200" ></p>
 
 
 
