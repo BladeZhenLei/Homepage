@@ -60,9 +60,7 @@ for my archieves of mathematical art.
 <p align="center">
 $Thank$ $you!$
 
-<p align="https://user-images.githubusercontent.com/66701331/197356718-928bc011-364d-4f4c-a7b4-fd3f9cf164e6.png" width="200" height="120" ></p>
-
-
+<p align="https://i.stack.imgur.com/uNeao.png" width="200" height="120" ></p>
 
 </p>
 <html lang="en">
