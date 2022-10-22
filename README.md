@@ -24,7 +24,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Gallery-Fractal/"> Fractal </a>
+<a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
 <br/>
 for my archieves of mathematical art.
 </p>
