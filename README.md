@@ -17,13 +17,11 @@ for my ideas in number thoery research.
 <p align="center">
 See
 <br/>
-<a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
+<a href="https://bladezhenlei.github.io/Prime-Partition/"> Prime Partition </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar </a>
+<a href="https://bladezhenlei.github.io/Prime-Gap/"> Prime Gap </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
-<br/>
-for my archieves of mathematical art.
+for some interesting open problems in number theory.
 </p>
 
 <p align="center">
@@ -36,17 +34,6 @@ See
 for the biggest mystery in mathematics and its extensions. 
 </p>
 
-<p align="center">
-See
-<br/>
-<a href="https://bladezhenlei.github.io/Prime-Partition/"> Prime Partition </a>
-<br/>
-<a href="https://bladezhenlei.github.io/Prime-Gap/"> Prime Gap </a>
-<br/>
-<a href="https://bladezhenlei.github.io/Integer-Partition/"> Integer Partition </a>
-<br/>
-for some interesting open problems in number theory.
-</p>
 
 <p align="center">
 Also see
@@ -56,6 +43,18 @@ Also see
 <a href="https://bladezhenlei.github.io/Post-Quantum-Cryptography/"> Post-Quantum Cryptography </a>
 <br/>
 for some stuffs concerning computer security. 
+</p>
+
+<p align="center">
+Finally, see
+<br/>
+<a href="https://bladezhenlei.github.io/Gallery-Parametric/"> Parametric </a>
+<br/>
+<a href="https://bladezhenlei.github.io/Gallery-Polar/"> Polar </a>
+<br/>
+<a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
+<br/>
+for my archieves of mathematical art.
 </p>
 
 <p align="center">
