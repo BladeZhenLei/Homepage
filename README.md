@@ -12,8 +12,6 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Prime-Pattern/"> Prime Pattern </a>
-<br/>
 for my ideas in number thoery research.
 </p>
 
