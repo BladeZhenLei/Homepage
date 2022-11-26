@@ -21,18 +21,8 @@ See
 <a href="https://bladezhenlei.github.io/Riemann-Hypothesis/"> Riemann Hypothesis</a>
 <br/>
 <a href="https://bladezhenlei.github.io/Collatz-Conjecture/"> Collatz Conjecture</a>
-for the biggest mystery in mathematics and its extensions. 
-</p>
-
-
-<p align="center">
-Also see
-<BR/>
-<a href="https://bladezhenlei.github.io/Classical-Cryptography/"> Classical Cryptography </a>
-<br/>
-<a href="https://bladezhenlei.github.io/Post-Quantum-Cryptography/"> Post-Quantum Cryptography </a>
-<br/>
-for some stuffs concerning computer security. 
+<br/>  
+for some of the biggest mysteries in mathematics. 
 </p>
 
 <p align="center">
