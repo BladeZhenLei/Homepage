@@ -16,22 +16,11 @@ for my ideas in number thoery research.
 </p>
 
 <p align="center">
-See
-<br/>
-<a href="https://bladezhenlei.github.io/Prime-Partition/"> Prime Partition </a>
-<br/>
-<a href="https://bladezhenlei.github.io/Prime-Gap/"> Prime Gap </a>
-<br/>
-for some interesting open problems in number theory.
-</p>
-
-<p align="center">
 See 
 <br/>
 <a href="https://bladezhenlei.github.io/Riemann-Hypothesis/"> Riemann Hypothesis</a>
 <br/>
-<a href="https://bladezhenlei.github.io/Graph-Riemann-Hypothesis/"> Graph Riemann Hypothesis </a>
-<br/>
+<a href="https://bladezhenlei.github.io/Collatz-Conjecture/"> Collatz Conjecture</a>
 for the biggest mystery in mathematics and its extensions. 
 </p>
 
