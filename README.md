@@ -12,7 +12,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Collatz-List/"> Prime List </a>
+<a href="https://bladezhenlei.github.io/Collatz-List/"> Collatz List </a>
 <br/>
 for my ideas in number thoery research.
 </p>
