@@ -8,13 +8,13 @@
 <p align="center">
 See
 <br/>
-<a href="https://bladezhenlei.github.io/Original-Problems/"> Original Problems </a>
+<a href="https://bladezhenlei.github.io/Original-Problems/"> Problems </a>
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
 <a href="https://bladezhenlei.github.io/Collatz-List/"> Collatz List </a>
 <br/>
-for my works.
+for my original works.
 </p>
 
 <p align="center">
