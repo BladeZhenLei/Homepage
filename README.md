@@ -14,7 +14,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Collatz-List/"> Collatz List </a>
 <br/>
-for my original works.
+for my original works in research.
 </p>
 
 <p align="center">
