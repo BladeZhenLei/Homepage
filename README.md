@@ -3,7 +3,7 @@
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/204099967-67b4afbe-1f72-4ca2-b2bf-b5fa582302a9.png" width="150" height="150" ></p>
 
-<p align="center"> My main research interests are in computational number theory, and in particular, efficient ways of finding large primes. </p>
+<p align="center"> My main research interests are in computational number theory. </p>
 
 <p align="center">
 See
