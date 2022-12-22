@@ -14,7 +14,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Collatz-List/"> Collatz List </a>
 <br/>
-for my ideas in number thoery research.
+for my works.
 </p>
 
 <p align="center">
