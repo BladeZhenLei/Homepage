@@ -1,7 +1,7 @@
 ***
 <p align="center"> " $God$ $may$ $not$ $play$ $dice$ $with$ $the$ $universe,$ $but$ $something$ $strange$ $is$ $going$ $on$ $with$ $the$ $prime$ $numbers.$ " - $Paul$ $Erdos$ <p/>
 
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/211238108-1b897040-538c-46ed-93d2-cb1bf6b6e500.png" width="500" height="50" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/211238293-02def3eb-2f5e-4e03-99a8-fff09296c070.png" width="300" height="250" ></p>
 
 
 <p align="center"> My main research interests are in computational number theory. </p>
