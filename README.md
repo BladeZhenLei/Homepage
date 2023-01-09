@@ -49,6 +49,7 @@ $Thank$ $you!$
 <p align="center">
 Contact
 </p>
+<p align="center">
 bladelei@yahoo.com
 </p>
 
