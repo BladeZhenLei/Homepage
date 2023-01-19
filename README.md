@@ -9,7 +9,7 @@
 <p align="center">
 See
 <br/>
-<a href="https://bladezhenlei.github.io/Original-Problems/"> Math Problems </a>
+<a href="https://bladezhenlei.github.io/Original-Problems/"> Some Math Problems </a>
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
