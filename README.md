@@ -4,7 +4,7 @@
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/211238293-02def3eb-2f5e-4e03-99a8-fff09296c070.png" width="150" height="150" ></p>
 
 
-<p align="center"> My main interests are in combinatorial number theory. </p>
+<p align="center"> My main research interests are in combinatorial number theory. </p>
 
 <p align="center">
 See
