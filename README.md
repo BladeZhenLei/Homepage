@@ -13,8 +13,6 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Collatz-List/"> Collatz List </a>
-<br/>
 for my original works.
 </p>
 
