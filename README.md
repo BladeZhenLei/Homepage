@@ -46,7 +46,7 @@ $Thank$ $you!$
 </p>
 
 <p align="center">
-E-mail
+E-Mail
 <br/>
 bladelei@yahoo.com
 </p>
