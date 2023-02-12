@@ -41,7 +41,7 @@ for my archieve of mathematical arts.
 <p align="center">
 $Thank$ $you!$
 
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/197359528-a0eaeaa1-1595-47c3-8720-d504fcf6c6e7.png" width="200" height="100" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/218330016-dd247c7f-415a-43d7-a017-9bdbadf60ea7.gif" width="200" height="100" ></p>
 
 </p>
 
