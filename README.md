@@ -2,6 +2,7 @@
 <p align="center"> " $God$ $may$ $not$ $play$ $dice$ $with$ $the$ $universe,$ $but$ $something$ $strange$ $is$ $going$ $on$ $with$ $the$ $prime$ $numbers.$ " - $Paul$ $Erdos$ <p/>
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/211238293-02def3eb-2f5e-4e03-99a8-fff09296c070.png" width="150" height="150" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/218329588-7b291f06-e776-42e8-b97c-726a0a839a29.png" width="150" height="150" ></p>
 
 
 <p align="center"> My main research interests are in combinatorial number theory. </p>
