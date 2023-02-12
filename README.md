@@ -23,7 +23,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Collatz-Conjecture/"> Collatz Conjecture</a>
 <br/>  
-for some of the biggest mysteries in mathematics. 
+for my posts about some of the biggest mysteries in mathematics. 
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Finally, see
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
 <br/>
-for my archieves of mathematical art.
+for my archieve of mathematical arts.
 </p>
 
 <p align="center">
