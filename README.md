@@ -12,7 +12,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
-for my original works.
+for some original works.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Collatz-Conjecture/"> Collatz Conjecture</a>
 <br/>  
-for my posts about some of the biggest mysteries in mathematics. 
+for some of the biggest mysteries in mathematics. 
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Finally, see
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
 <br/>
-for my archieve of mathematical arts.
+for archieves of mathematical arts.
 </p>
 
 <p align="center">
