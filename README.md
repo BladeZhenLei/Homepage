@@ -34,7 +34,7 @@ Finally, see
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
 <br/>
-for archieves of mathematical arts.
+for some archieves of mathematical arts.
 </p>
 
 <p align="center">
