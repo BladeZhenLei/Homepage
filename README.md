@@ -3,7 +3,7 @@
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/218628103-c04313d6-7d96-43e9-b53b-f0f9c43a57e3.gif" width="165" height="150" ></p>
 
-<p align="center"> My main research interests are in computational number theory. I am a member of GIMPS and CPU contributor to its projects. </p>
+<p align="center"> My main research interests are in computational number theory. I am a member of GIMPS and several other academic forums. </p>
 
 <p align="center">
 See
@@ -12,7 +12,9 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
-for some original works.
+<a href="https://bladezhenlei.github.io/Prime-List/"> GIMPS Research </a>
+<br/>
+for original works.
 </p>
 
 <p align="center">
@@ -22,7 +24,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Collatz-Conjecture/"> Collatz Conjecture</a>
 <br/>  
-for some of the biggest mysteries in mathematics. 
+for the biggest mysteries in mathematics. 
 </p>
 
 <p align="center">
@@ -34,7 +36,7 @@ Finally, see
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
 <br/>
-for some archieves of mathematical arts.
+for archieves of mathematical arts.
 </p>
 
 <p align="center">
