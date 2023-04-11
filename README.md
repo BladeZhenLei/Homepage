@@ -12,7 +12,7 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Prime-List/"> GIMPS Research </a>
+<a href="https://bladezhenlei.github.io/GIMPS/"> GIMPS Research </a>
 <br/>
 for original works.
 </p>
