@@ -1,4 +1,3 @@
-***
 <p align="center"> <h2> $Prime$ $Obsession$ </h2> <p/>
 
 <p align="center"> " $God$ $may$ $not$ $play$ $dice$ $with$ $the$ $universe,$ $but$ $something$ $strange$ $is$ $going$ $on$ $with$ $the$ $prime$ $numbers.$ " - $Paul$ $Erdos$ <p/>
