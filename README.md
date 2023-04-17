@@ -46,6 +46,8 @@ $Thank$ $you!$
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/218628421-d27da610-0af7-4680-8f9c-523692e0961a.gif" width="200" height="175" ></p>
 </p>
 
+<p align="center"> " $God$ $may$ $not$ $play$ $dice$ $with$ $the$ $universe,$ $but$ $something$ $strange$ $is$ $going$ $on$ $with$ $the$ $prime$ $numbers.$ " - $Paul$ $Erdos$ <p/>
+
 <p align="center">
 E-mail
 <br/>
