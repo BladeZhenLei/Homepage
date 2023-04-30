@@ -9,8 +9,6 @@ See
 <br/>
 <a href="https://bladezhenlei.github.io/Conjectures-Problems/"> Conjectures and Problems </a>
 <br/>
-<a href="https://bladezhenlei.github.io/Prime-List/"> Prime List </a>
-<br/>
 for my original works.
 </p>
 
@@ -34,6 +32,7 @@ Finally, see
 <a href="https://bladezhenlei.github.io/Gallery-Fractals/"> Fractals </a>
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
+<br/>
 for my archieves of mathematical arts.
 </p>
 
