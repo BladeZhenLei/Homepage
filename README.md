@@ -40,7 +40,7 @@ for my archieves of mathematical arts.
 $Thank$ $you!$
 
 <p align="center">
-E-mail
+Email
 <br/>
 bladelei@yahoo.com
 </p>
