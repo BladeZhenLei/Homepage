@@ -33,6 +33,7 @@ Finally, see
 <br/>
 <a href="https://bladezhenlei.github.io/Gallery-Fractals/"> Fractals </a>
 <br/>
+<a href="https://bladezhenlei.github.io/Gallery-Discrete/"> Discrete </a>
 for my archieves of mathematical arts.
 </p>
 
