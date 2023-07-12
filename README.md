@@ -5,8 +5,6 @@
 <p align="center">
 See
 <br/>
-<a href="https://bladezhenlei.github.io/GIMPS/"> GIMPS Research </a>
-<br/>
 <a href="https://bladezhenlei.github.io/Conjectures-Problems/"> Conjectures and Problems </a>
 <br/>
 for my original works.
