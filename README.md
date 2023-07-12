@@ -1,6 +1,6 @@
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/218628103-c04313d6-7d96-43e9-b53b-f0f9c43a57e3.gif" width="165" height="150" ></p>
 
-<p align="center"> My main research interests are in computational number theory. I am a member of GIMPS and several other academic forums. </p>
+<p align="center"> My main research interests are in computational number theory. </p>
 
 <p align="center">
 See
